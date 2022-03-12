@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c137350.css",
-    "main.js": "/static/js/main.6c653e04.js",
-    "static/js/787.63e47474.chunk.js": "/static/js/787.63e47474.chunk.js",
-    "static/media/tickmark.png": "/static/media/tickmark.f8536820c510f6247601.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.0c137350.css.map": "/static/css/main.0c137350.css.map",
-    "main.6c653e04.js.map": "/static/js/main.6c653e04.js.map",
-    "787.63e47474.chunk.js.map": "/static/js/787.63e47474.chunk.js.map"
+    "main.css": "/td-app/static/css/main.0c137350.css",
+    "main.js": "/td-app/static/js/main.3f355222.js",
+    "static/js/787.63e47474.chunk.js": "/td-app/static/js/787.63e47474.chunk.js",
+    "static/media/tickmark.png": "/td-app/static/media/tickmark.f8536820c510f6247601.png",
+    "static/media/logo.svg": "/td-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/td-app/index.html",
+    "main.0c137350.css.map": "/td-app/static/css/main.0c137350.css.map",
+    "main.3f355222.js.map": "/td-app/static/js/main.3f355222.js.map",
+    "787.63e47474.chunk.js.map": "/td-app/static/js/787.63e47474.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c137350.css",
-    "static/js/main.6c653e04.js"
+    "static/js/main.3f355222.js"
   ]
 }

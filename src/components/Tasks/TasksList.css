@@ -1,0 +1,19 @@
+.tasks-list {
+    list-style: none;
+    /* border: 1px white solid; */
+    right: 0;
+    padding: 0;
+    display: flex;
+    gap: 3rem;
+    flex-wrap: wrap;
+  }
+  
+  .around{
+    display: flex;
+    gap: 1rem;
+    color: white;
+  }
+.tasks-list__fallback {
+    color: white;
+    text-align: center;
+  }
